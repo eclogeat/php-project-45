@@ -1,0 +1,18 @@
+{
+    "name": "hexlet/code",
+    "bin": "bin/brain-games",
+    "description": "first project on hexlet",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Code\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "eclogeat",
+            "email": "eclogeat@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {}
+}
