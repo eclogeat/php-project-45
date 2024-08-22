@@ -6,3 +6,5 @@ https://asciinema.org/connect/868e8ad4-fe00-4870-895c-498f96ece4b1 (first and se
 https://asciinema.org/connect/868e8ad4-fe00-4870-895c-498f96ece4b1 (NOD game)
 
 https://asciinema.org/connect/868e8ad4-fe00-4870-895c-498f96ece4b1 (progression-game)
+
+https://asciinema.org/connect/868e8ad4-fe00-4870-895c-498f96ece4b1 (prime-game)
