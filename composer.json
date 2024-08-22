@@ -4,7 +4,8 @@
         "bin/brain-games",
         "bin/brain-even",
         "bin/brain-calc",
-        "bin/brain-gcd"
+        "bin/brain-gcd",
+        "bin/brain-progression"
       ],
     "description": "first project on hexlet",
     "autoload": {
@@ -15,7 +16,8 @@
             "src/Cli.php",
             "src/BrainGames/Even.php",
             "src/BrainGames/Calc.php",
-            "src/BrainGames/Gcd.php"
+            "src/BrainGames/Gcd.php",
+            "src/BrainGames/Progression.php"
         ]
     },
     "authors": [
